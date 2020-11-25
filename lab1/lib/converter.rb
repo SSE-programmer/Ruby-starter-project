@@ -67,5 +67,3 @@ class Converter
     end
   end
 end
-
-puts Converter.conversion_kelvin_to_fahrenheit(0)
